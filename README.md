@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Yıldırım</h1>
-<h3 align="center">Junior Backend Developer | Learning ASP.NET Core</h3>
+<h3 align="center">Backend Developer | Learning ASP.NET Core</h3>
 
 - 📫 How to reach me **muratyildirim4@hotmail.com**
 
