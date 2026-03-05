@@ -54,11 +54,11 @@
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=murat-yildirim&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=murat-yildirim&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-one.vercel.app/api?username=murat-yildirim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=murat-yildirim&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=murat-yildirim&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=murat-yildirim&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 </p>
 
